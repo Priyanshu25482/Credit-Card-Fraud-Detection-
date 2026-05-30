@@ -7,7 +7,7 @@ The objective of this project is to identify fraudulent credit card transactions
 - <a href="https://github.com/Priyanshu25482/Credit-Card-Fraud-Detection-/blob/main/synthetic_fraud_dataset1.csv">DataSet</a>
 
 ## Jupyter File
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyanshu25482/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection_Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/Priyanshu25482/Credit-Card-Fraud-Detection-System/blob/main/Credit%20Card%20Fraud%20Detection%20Project.ipynb)
 
 ## Questions (KPIs)
 - What percentage of total transactions were identified as fraudulent?
