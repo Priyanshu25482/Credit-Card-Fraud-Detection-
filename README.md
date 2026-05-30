@@ -26,3 +26,4 @@ The objective of this project is to identify fraudulent credit card transactions
 - Evaluated models using Accuracy, Precision, Recall, Confusion Matrix, and ROC-AUC Score, then selected the best-performing model for fraud prediction and real-time alert generation.
 
 ## Jupyter File
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyanshu25482/Credit-Card-Fraud-Detection/blob/main/Credit%20Card%20Fraud%20Detection%20Project.ipynb)
