@@ -9,6 +9,9 @@ The objective of this project is to identify fraudulent credit card transactions
 ## Jupyter File
 - <a href="https://nbviewer.org/github/Priyanshu25482/Credit-Card-Fraud-Detection-/blob/main/Credit%20Card%20Fraud%20Detection%20Project.ipynb">Jupyter Notebook</a>
 
+## Powerpoint Report
+- <a href="- <a href="https://nbviewer.org/github/Priyanshu25482/Credit-Card-Fraud-Detection-/blob/main/Credit%20Card%20Fraud%20Detection%20Project.ipynb">Powerpoint Report</a>
+
 ## Questions (KPIs)
 - What percentage of total transactions were identified as fraudulent?
 - Which transaction type has the highest fraud occurrence rate?
